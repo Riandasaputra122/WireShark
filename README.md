@@ -2,7 +2,7 @@ PRAKTIKUM JARINGAN KOMPUTER
 
 Nama : Rianda SAputra
 
-Rinda Ambarwati Putri 09030582226018
+NIm : 09030582226018
 Berikut apa saja yang di Butuhkan :
 
 1). Software Wireshark
